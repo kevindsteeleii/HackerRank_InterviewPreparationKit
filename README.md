@@ -1,4 +1,6 @@
-# <i class="fab fa-hackerrank" style="color: green"></i> Hackker Rank Interview Preparation kit
+
+
+# <img src="./_imgs/HackerRank_logo.svg" width="100px" style="display:inline"/> Hacker Rank Interview Preparation kit
 
 Hackker Rank has carefully curated these challenges to help prepare job seekers in the most comprehensive way possible. 
 
